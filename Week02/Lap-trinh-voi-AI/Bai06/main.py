@@ -1,0 +1,1 @@
+#Đây chỉ là 1 giao diện tương tác cho 1 hệ thống AI
